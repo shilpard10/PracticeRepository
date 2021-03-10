@@ -8,6 +8,12 @@ MyFirstTest
 MySecondTest  
     Log     This is my second Test
     
+MyThirdTest  
+    Log     This is my Third Test
+    
+MyFourthTest  
+    Log     This is my Fourth Test
+    
 # FirstSeleniumTest 
     # [Documentation]    test to search keyword in google
     # Open Browser    https://google.com  chrome
